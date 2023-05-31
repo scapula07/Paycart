@@ -23,6 +23,12 @@ Our dapp include the following features;
 
 ### Details on implementation of hackathon challanges 
 
+
+###   Use of Gateway rpc endpoint
+Gateway rpc endpoint for Goerli and Chiado Gnosis were used to contruct provider instances for Banana wallet sdk and Ethersjs.
+This enable connect with blockchain node and sign transactions with our wallets.
+
+
 ###   Integration of Banana wallet sdk
 
 Our dapp connect and creat wallet account for users using the Banana  wallet sdk.
